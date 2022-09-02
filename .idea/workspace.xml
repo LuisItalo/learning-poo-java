@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ee46334b-3111-4197-bf40-c9fddc25ca2b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning-poo-java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula01/Aula_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula01/Caneta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula02/Aula_02_Modificadores_Visibilidade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula02/Caneta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula03/Aula_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula03/Caneta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula04/Aula_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula04/ContaBanco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula05_encapsulamento/Aula_05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula05_encapsulamento/Controlador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula05_encapsulamento/ControleRemoto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula06_emcapsulamento_entre_classes/Aula_06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula06_emcapsulamento_entre_classes/Luta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula06_emcapsulamento_entre_classes/Lutador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula07_exercicio/Aula_07_exercicio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula07_exercicio/Livro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula07_exercicio/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula07_exercicio/Publicacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula08_herança/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula08_herança/Aula_08_Pessoas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula08_herança/Bolsista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula08_herança/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula08_herança/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula08_herança/Professor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula08_herança/Visitantes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula09_polimorfismo/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula09_polimorfismo/Arara.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula09_polimorfismo/Aula_09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula09_polimorfismo/Ave.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula09_polimorfismo/Cachorro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula09_polimorfismo/Canguru.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula09_polimorfismo/Cobra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula09_polimorfismo/Goldfish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula09_polimorfismo/Mamifero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula09_polimorfismo/Peixe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula09_polimorfismo/Reptil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula09_polimorfismo/Tartaruga.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2EDESpQCXgu2EiqmiqlxbuTEcPM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee46334b-3111-4197-bf40-c9fddc25ca2b" name="Changes" comment="" />
+      <created>1662121758754</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662121758754</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
